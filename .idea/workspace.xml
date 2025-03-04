@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="437d0d6b-7e82-4b56-a0f1-303e30fb5c3e" name="Changes" comment="Add new documentation for admin panel and cloud features&#10;&#10;This commit introduces extensive updates to the documentation, including sections on user preferences, customizing CSS, preview functionality, and Payload Cloud features. These docs aim to improve clarity and provide practical examples for developers and admins setting up or extending Payload projects." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kashuta/payload_3.git",
+    "accountId": "6f7846e6-67ba-4575-a38d-c140ea27f94a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2tqtq7OiHsagwdk9rJPH8nTiFXL" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/izual/payload_wiki",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.44" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="437d0d6b-7e82-4b56-a0f1-303e30fb5c3e" name="Changes" comment="" />
+      <created>1741091619447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741091619447</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Remove payload_3.wiki directory and related files&#10;&#10;Deleted the entire `payload_3.wiki` directory, including the `.gitignore` and `README.md` files, as they are no longer needed. This cleanup helps streamline the repository and remove outdated or unused content.">
+      <option name="closed" value="true" />
+      <created>1741091723287</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741091723287</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add new documentation for admin panel and cloud features&#10;&#10;This commit introduces extensive updates to the documentation, including sections on user preferences, customizing CSS, preview functionality, and Payload Cloud features. These docs aim to improve clarity and provide practical examples for developers and admins setting up or extending Payload projects.">
+      <option name="closed" value="true" />
+      <created>1741091950022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741091950022</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Remove payload_3.wiki directory and related files&#10;&#10;Deleted the entire `payload_3.wiki` directory, including the `.gitignore` and `README.md` files, as they are no longer needed. This cleanup helps streamline the repository and remove outdated or unused content." />
+    <MESSAGE value="Add new documentation for admin panel and cloud features&#10;&#10;This commit introduces extensive updates to the documentation, including sections on user preferences, customizing CSS, preview functionality, and Payload Cloud features. These docs aim to improve clarity and provide practical examples for developers and admins setting up or extending Payload projects." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new documentation for admin panel and cloud features&#10;&#10;This commit introduces extensive updates to the documentation, including sections on user preferences, customizing CSS, preview functionality, and Payload Cloud features. These docs aim to improve clarity and provide practical examples for developers and admins setting up or extending Payload projects." />
+  </component>
+</project>
